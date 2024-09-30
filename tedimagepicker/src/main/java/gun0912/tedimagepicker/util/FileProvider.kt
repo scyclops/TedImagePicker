@@ -1,5 +1,5 @@
 
 package gun0912.tedimagepicker.util
 
-class FileProvider : androidx.core.content.FileProvider() {}
+class FileProvider : androidx.core.content.FileProvider()
 
